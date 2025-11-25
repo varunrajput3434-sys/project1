@@ -21,6 +21,7 @@ def clear():
     global expr
     expr = ""
     display.set("")
+    
 
 if __name__ == "__main__":
     root = Tk()
